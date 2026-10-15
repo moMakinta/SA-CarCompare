@@ -34,7 +34,8 @@ SA-CarCompare/
 ├── Program.cs           # Application entry point and service configuration
 └── SACarCompare.sln     # Visual Studio Solution file
 ```
-##Getting Started
+## Getting Started
+
 *Prerequisites*
 .NET 8 SDK installed on your machine.
 
@@ -59,10 +60,10 @@ Run the provided scripts in the SQL-Script folder to set up the database schema.
 Run the Application:
 
 From your terminal, run:
-
+```
 Bash
 dotnet run
 Or press F5 inside Visual Studio.
-
+```
 Author
 Oregomoditse Motlalepule (Mo) Makinta – GitHub Profile
