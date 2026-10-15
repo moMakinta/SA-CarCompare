@@ -1,0 +1,59 @@
+﻿<!DOCTYPE html>
+<html lang="en" class="h-full">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - SA Car Compare</title>
+    
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="~/js/config.js"></script>
+    <link rel="stylesheet" href="~/css/styles.css" />
+
+    <style>
+        @keyframes spin { from { transform: rotate(0deg); } to { transform: rotate(360deg); } }
+        @keyframes drive { from { stroke-dashoffset: 0; } to { stroke-dashoffset: -100; } }
+        @keyframes bounce { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-2px); } }
+        .wheel { transform-origin: center; animation: spin 1.2s linear infinite; }
+        .road-lines { stroke-dasharray: 40, 60; animation: drive 1.2s linear infinite; }
+        .car-body { animation: bounce 1.5s ease-in-out infinite; }
+    </style>
+</head>
+<body class="h-full bg-white text-slate-800 font-sans">
+    <header class="sticky top-0 z-50 bg-white/90 glass border-b border-slate-100">
+        <div class="max-w-7xl mx-auto px-4">
+            <div class="flex items-center justify-between h-16">
+                <a asp-controller="Home" asp-action="Index" class="flex items-center gap-3">
+                    <div class="w-9 h-9 rounded-lg bg-accent-500 text-white flex items-center justify-center font-bold">SA</div>
+                    <div>
+                        <div class="text-lg font-semibold">SA Car Compare</div>
+                        <div class="text-xs text-slate-500">Compare · Book · Drive</div>
+                    </div>
+                </a>
+                <nav class="hidden md:flex items-center gap-6">
+                    <a asp-controller="Home" asp-action="Index" class="nav-link text-slate-700 hover:text-accent-600 transition">Home</a>
+                    <a asp-controller="Home" asp-action="About" class="nav-link text-slate-700 hover:text-accent-600 transition">About</a>
+                    <a href="#" class="nav-link text-slate-700 hover:text-accent-600 transition">Demo Cars</a>
+                    <a href="#" class="nav-link text-slate-700 hover:text-accent-600 transition">New Cars</a>
+                    <a asp-controller="Home" asp-action="Contact" class="nav-link text-slate-700 hover:text-accent-600 transition">Contact Us</a>
+                </nav>
+                <div class="hidden md:flex items-center gap-3">
+                     <a asp-controller="Home" asp-action="Login" class="px-4 py-2 rounded-lg bg-accent-500 text-white hover:bg-accent-600 transition">Login / Register</a>
+                </div>
+                <button id="mobileMenuBtn" class="md:hidden inline-flex items-center justify-center w-10 h-10 rounded-lg border border-slate-200" aria-label="Menu">☰</button>
+            </div>
+        </div>
+        </header>
+
+    <main role="main" class="min-h-[70vh]">
+        @RenderBody()
+    </main>
+
+    <footer class="border-t border-slate-100">
+        <div class="max-w-7xl mx-auto px-4 py-8">
+             </div>
+    </footer>
+    
+    <script src="~/js/main.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

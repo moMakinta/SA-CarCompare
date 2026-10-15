@@ -1,0 +1,229 @@
+﻿@{
+    ViewData["Title"] = "SA Car Compare";
+}
+
+<section id="page-home" class="block">
+    <div class="relative overflow-hidden">
+        <div class="max-w-7xl mx-auto px-4 py-12 md:py-16">
+            <div class="grid md:grid-cols-2 gap-10 items-center">
+                <div>
+                    <h1 class="text-3xl md:text-4xl font-semibold leading-tight mb-4">Welcome to SA Car Compare</h1>
+                    <p class="text-slate-600 mb-2">The easiest way to compare new and demo cars across South Africa.</p>
+                    <p class="text-slate-600 mb-6">Search trusted dealers, line up your top picks side-by-side, then book an appointment in minutes.</p>
+                    <div class="p-3 md:p-4 rounded-2xl border border-slate-200 shadow-card">
+                        <div class="grid grid-cols-1 sm:grid-cols-4 gap-3">
+                            <input id="searchBrand" class="px-4 py-3 rounded-lg border border-slate-200 focus-ring" placeholder="Brand e.g. Toyota" />
+                            <input id="searchModel" class="px-4 py-3 rounded-lg border border-slate-200 focus-ring" placeholder="Model e.g. Corolla" />
+                            <select id="searchType" class="px-4 py-3 rounded-lg border border-slate-200 focus-ring">
+                                <option value="">Any Type</option>
+                                <option value="New">New</option>
+                                <option value="Demo">Demo</option>
+                            </select>
+                            <button id="homeSearchBtn" class="px-4 py-3 rounded-lg bg-accent-500 text-white hover:bg-accent-600 transition">Search Cars</button>
+                        </div>
+                        <div class="text-xs text-slate-500 mt-2">Tip: Leave fields blank to browse all cars.</div>
+                    </div>
+                </div>
+                <div class="relative">
+                    <div class="rounded-2xl border border-slate-200 p-6 shadow-card overflow-hidden" style="background-image: linear-gradient(45deg, rgba(0, 122, 77, 0.1), rgba(0, 20, 137, 0.1), rgba(224, 60, 49, 0.1));">
+                        <svg class="absolute top-4 right-4 h-8 w-12" viewBox="0 0 900 600" xmlns="http://www.w3.org/2000/svg"><path d="M0 0h900v600H0z" fill="#001489" /><path d="M0 0h900v300H0z" fill="#e03c31" /><path d="M0 600l450-300L0 0v600z" fill="#007a4d" /><path d="M225 300L0 150v300L225 300z" fill="#ffb612" /><path d="M150 300L0 200v200L150 300z" fill="#fff" /><path d="M75 300L0 250v100L75 300z" /></svg>
+                        <div class="grid grid-cols-5 gap-4 items-center">
+                            <div class="col-span-3"><svg viewBox="0 0 400 200" class="w-full"><path d="M-20 180 H420" stroke="#a0aec0" stroke-width="4" /><path class="road-lines" d="M-20 180 H420" stroke="#e2e8f0" stroke-width="4" /><g class="car-body" transform="translate(80 40)"><g class="wheel" transform="translate(60 125)"><circle r="20" fill="#2d3748" /><circle r="8" fill="#e2e8f0" /></g><g class="wheel" transform="translate(220 125)"><circle r="20" fill="#2d3748" /><circle r="8" fill="#e2e8f0" /></g><path d="M20 125 L 40 70 A 20 20 0 0 1 80 50 L 180 50 A 20 20 0 0 1 220 70 L 250 125 Z" fill="#1f7bff" /><path d="M85 55 L 120 55 L 130 80 L 75 80 Z" fill="#d9ecff" opacity="0.8" /><path d="M130 55 L 175 55 L 190 80 L 140 80 Z" fill="#d9ecff" opacity="0.8" /></g></svg></div>
+                            <div class="col-span-2 text-right"><h3 class="text-xl font-semibold text-slate-800">Drive Your Discovery.</h3><p class="text-slate-600 mt-2">Compare the best new and demo cars from trusted dealers across South Africa.</p></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="mt-10">
+                <div class="flex items-center justify-between mb-4"><h2 class="text-xl font-semibold">Popular Picks</h2><a href="#" data-nav="cars" class="text-accent-600 hover:text-accent-800">Browse all</a></div>
+                <div id="featuredGrid" class="grid sm:grid-cols-2 lg:grid-cols-3 gap-6"></div>
+            </div>
+            <div class="mt-12 md:mt-16">
+                <div class="rounded-2xl border border-slate-200 p-6 shadow-card">
+                    <h3 class="text-lg font-semibold mb-1">Monthly Budget Calculator</h3>
+                    <p class="text-sm text-slate-600 mb-6">Estimate repayments to find cars that fit your budget.</p>
+                    <div class="grid md:grid-cols-4 gap-4">
+                        <div><label class="block text-sm text-slate-600 mb-1">Monthly Budget (R)</label><input id="calcBudget" type="number" min="0" class="w-full px-4 py-3 rounded-lg border border-slate-200 focus-ring" placeholder="e.g. 6000" /></div>
+                        <div><label class="block text-sm text-slate-600 mb-1">Loan Term (months)</label><input id="calcTerm" type="number" min="12" step="12" class="w-full px-4 py-3 rounded-lg border border-slate-200 focus-ring" placeholder="e.g. 72" /></div>
+                        <div><label class="block text-sm text-slate-600 mb-1">Deposit (R)</label><input id="calcDeposit" type="number" min="0" class="w-full px-4 py-3 rounded-lg border border-slate-200 focus-ring" placeholder="e.g. 40000" /></div>
+                        <div><label class="block text-sm text-slate-600 mb-1">Interest Rate (%)</label><input id="calcRate" type="number" min="0" step="0.25" class="w-full px-4 py-3 rounded-lg border border-slate-200 focus-ring" placeholder="e.g. 12" /></div>
+                    </div>
+                    <div class="flex flex-wrap items-center gap-3 mt-4"><button id="calcBtn" class="px-4 py-3 rounded-lg bg-accent-500 text-white hover:bg-accent-600">Calculate</button><div id="calcResult" class="text-sm text-slate-700"></div></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section id="page-about" class="hidden">
+    <div class="max-w-5xl mx-auto px-4 py-10">
+        <h2 class="text-2xl font-semibold mb-3">About SA Car Compare</h2>
+        <p class="text-slate-700 mb-4">We’re on a mission to make car shopping simple, transparent, and fast for South Africans. Compare trusted dealerships, see honest pricing, and book appointments without the back-and-forth.</p>
+        <div class="grid md:grid-cols-3 gap-6">
+            <div class="rounded-2xl border border-slate-200 p-4"><div class="font-semibold mb-1">Our Mission</div><p class="text-sm text-slate-600">Help buyers find the right car at the right price with zero hassle.</p></div>
+            <div class="rounded-2xl border border-slate-200 p-4"><div class="font-semibold mb-1">For Shoppers</div><p class="text-sm text-slate-600">Search new and demo cars, compare up to 3 side-by-side, then book a test drive.</p></div>
+            <div class="rounded-2xl border border-slate-200 p-4"><div class="font-semibold mb-1">For Dealers</div><p class="text-sm text-slate-600">Reach qualified buyers, manage appointments, and showcase inventory professionally.</p></div>
+        </div>
+    </div>
+</section>
+
+<section id="page-cars" class="hidden">
+    <div class="max-w-7xl mx-auto px-4 py-8">
+        <div class="flex items-center justify-between mb-4"><h2 class="text-2xl font-semibold">Browse Cars</h2><div class="text-sm text-slate-500"><span id="listingCount">0</span> results</div></div>
+        <div class="rounded-2xl border border-slate-200 p-4 md:p-5 shadow-card mb-6">
+            <div class="grid sm:grid-cols-2 md:grid-cols-6 gap-3">
+                <select id="fBrand" class="px-3 py-2 rounded-lg border border-slate-200 focus-ring"><option value="">Any Brand</option></select>
+                <input id="fModel" class="px-3 py-2 rounded-lg border border-slate-200 focus-ring" placeholder="Model" />
+                <select id="fType" class="px-3 py-2 rounded-lg border border-slate-200 focus-ring"><option value="">Any Type</option><option>New</option><option>Demo</option></select>
+                <input id="fPriceMin" type="number" class="px-3 py-2 rounded-lg border border-slate-200 focus-ring" placeholder="Min Price" />
+                <input id="fPriceMax" type="number" class="px-3 py-2 rounded-lg border border-slate-200 focus-ring" placeholder="Max Price" />
+                <button id="fApply" class="px-3 py-2 rounded-lg bg-accent-500 text-white hover:bg-accent-600">Apply</button>
+            </div>
+            <div class="flex items-center gap-3 mt-3">
+                <button id="compareBtn" class="px-4 py-2 rounded-lg border border-slate-200 hover:border-accent-500 text-slate-700 hover:text-accent-700 disabled:opacity-40" disabled>Compare (0/3)</button>
+                <button id="clearFilters" class="px-4 py-2 rounded-lg text-slate-600 hover:text-slate-800">Clear</button>
+            </div>
+        </div>
+        <div id="carsGrid" class="grid sm:grid-cols-2 lg:grid-cols-3 gap-6"></div>
+    </div>
+</section>
+
+<section id="page-dealers" class="hidden">
+    <div class="max-w-7xl mx-auto px-4 py-8">
+        <div class="flex items-center justify-between mb-4"><h2 class="text-2xl font-semibold">Find a Dealer</h2><div class="text-sm text-slate-500"><span id="dealerCount">0</span> dealers</div></div>
+        <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-6" id="dealersGrid"></div>
+    </div>
+</section>
+
+<section id="page-dealer-detail" class="hidden">
+    <div class="max-w-7xl mx-auto px-4 py-8">
+        <button class="mb-4 px-3 py-2 rounded-lg border border-slate-200 hover:border-accent-500" onclick="navTo('dealers')">Back to dealers</button>
+        <div class="grid lg:grid-cols-3 gap-6">
+            <div class="lg:col-span-2 space-y-4">
+                <h2 id="dealerName" class="text-2xl font-semibold">Dealer Name</h2>
+                <div class="rounded-xl border border-slate-200 p-4"><div class="text-sm text-slate-600">Location</div><div id="dealerLocation" class="font-medium">City, Province</div><div class="mt-2 text-sm text-slate-600">Contact</div><div id="dealerContact" class="font-medium">Phone / Email</div></div>
+                <div class="rounded-xl border border-slate-200 overflow-hidden"><div class="px-4 py-3 border-b border-slate-100 flex items-center justify-between"><div class="font-medium">Location Map (Demo)</div><span class="text-xs text-slate-500">Approximate position</span></div><div id="dealerMap" class="w-full h-64 bg-slate-100"></div></div>
+                <div><h3 class="text-lg font-semibold mb-2">Cars at this dealership</h3><div id="dealerCarsGrid" class="grid sm:grid-cols-2 gap-6"></div></div>
+            </div>
+            <div class="space-y-4">
+                <div class="rounded-xl border border-slate-200 p-4">
+                    <h4 class="font-semibold mb-2">Book an Appointment</h4><p class="text-xs text-slate-600 mb-3">Choose a date and time. We’ll notify the dealer.</p>
+                    <form id="appointmentForm" class="space-y-3"><input type="text" id="apptName" placeholder="Your Name" class="w-full px-3 py-2 rounded-lg border border-slate-200 focus-ring" required /><input type="email" id="apptEmail" placeholder="Email" class="w-full px-3 py-2 rounded-lg border border-slate-200 focus-ring" required /><input type="tel" id="apptPhone" placeholder="Phone" class="w-full px-3 py-2 rounded-lg border border-slate-200 focus-ring" required /><input type="date" id="apptDate" class="w-full px-3 py-2 rounded-lg border border-slate-200 focus-ring" required /><input type="time" id="apptTime" class="w-full px-3 py-2 rounded-lg border border-slate-200 focus-ring" required /><textarea id="apptMsg" rows="3" class="w-full px-3 py-2 rounded-lg border border-slate-200 focus-ring" placeholder="Your message..."></textarea><button class="w-full px-4 py-2 rounded-lg bg-accent-500 text-white hover:bg-accent-600">Book Appointment</button><div class="text-xs text-slate-500">Demo: Saves locally and shows confirmation.</div></form>
+                    <div id="appointmentConfirm" class="hidden mt-3 rounded-lg bg-accent-50 border border-accent-100 p-3 text-sm text-accent-800"></div>
+                </div>
+                <div class="rounded-xl border border-slate-200 p-4">
+                    <h4 class="font-semibold mb-2">Reviews & Ratings</h4><div id="reviewsList" class="space-y-3 mb-3"></div>
+                    <form id="reviewForm" class="space-y-2"><select id="reviewRating" class="w-full px-3 py-2 rounded-lg border border-slate-200 focus-ring" required><option value="">Rating</option> <option>5 - Excellent</option> <option>4 - Good</option> <option>3 - Average</option> <option>2 - Poor</option> <option>1 - Terrible</option></select><textarea id="reviewText" rows="3" class="w-full px-3 py-2 rounded-lg border border-slate-200 focus-ring" placeholder="Share your experience..." required></textarea><button class="w-full px-4 py-2 rounded-lg border border-slate-200 hover:border-accent-500">Submit Review</button><div class="text-xs text-slate-500">Demo: Adds your review locally.</div></form>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section id="page-car-detail" class="hidden">
+    <div class="max-w-7xl mx-auto px-4 py-8">
+        <button class="mb-4 px-3 py-2 rounded-lg border border-slate-200 hover:border-accent-500" onclick="navTo('cars')">Back to cars</button>
+        <div class="grid lg:grid-cols-2 gap-8">
+            <div>
+                <div id="photoGallery" class="rounded-2xl border border-slate-200 overflow-hidden">
+                    <div class="w-full h-64 md:h-96 bg-slate-100 flex items-center justify-center" id="photoMain">
+                        <div class="text-slate-400">Photo</div>
+                    </div>
+                    <div class="flex gap-2 p-2 overflow-auto hide-scrollbar" id="photoThumbs">
+                    </div>
+                </div>
+            </div>
+            <div class="space-y-4">
+                <h2 id="carTitle" class="text-3xl font-semibold">Brand Model</h2>
+                <div class="text-3xl font-bold text-accent-700" id="carPrice">R0</div>
+                <div id="carMeta" class="text-sm text-slate-600">Year • Fuel • Transmission • Type • Mileage</div>
+
+                <div class="pt-2">
+                    <h3 class="font-semibold mb-2">Key Features</h3>
+                    <ul id="carFeatures" class="list-disc pl-5 text-sm text-slate-700 grid grid-cols-2 gap-x-6 gap-y-1"></ul>
+                </div>
+
+                <div class="flex gap-3 pt-4">
+                    <button id="carCompareToggle" class="flex-1 px-4 py-3 rounded-lg border border-slate-200 hover:border-accent-500">Add to Compare</button>
+                    <button id="carBook" class="flex-1 px-4 py-3 rounded-lg bg-accent-500 text-white hover:bg-accent-600">Book Appointment</button>
+                </div>
+
+                <div class="rounded-xl border border-slate-200 p-4 mt-6">
+                    <h4 class="font-semibold text-sm text-slate-800 mb-3">Personalized recommendations (Demo)</h4>
+                    <div id="recommendations" class="grid grid-cols-1 sm:grid-cols-2 gap-3">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<section id="page-auth" class="hidden">
+    <div class="max-w-md mx-auto px-4 py-10">
+        <div class="rounded-2xl border border-slate-200 p-6 shadow-card"><h2 class="text-2xl font-semibold mb-2">Login</h2><p class="text-sm text-slate-600 mb-4">Enter your details to sign in.</p><form id="loginForm" class="space-y-3"><input id="loginEmail" type="email" class="w-full px-3 py-2 rounded-lg border border-slate-200" placeholder="Email" required /><input id="loginPassword" type="password" class="w-full px-3 py-2 rounded-lg border border-slate-200" placeholder="Password" required /><button class="w-full px-4 py-2 rounded-lg bg-accent-500 text-white hover:bg-accent-600">Login</button></form><div class="text-sm text-slate-600 mt-4">New here? <a href="#" id="openRegister" class="text-accent-700 hover:text-accent-900">Create an account</a></div></div>
+    </div>
+</section>
+<section id="page-register" class="hidden">
+    <div class="max-w-md mx-auto px-4 py-10">
+        <div class="rounded-2xl border border-slate-200 p-6 shadow-card"><h2 class="text-2xl font-semibold mb-2">Create your account</h2><p class="text-sm text-slate-600 mb-4">Get started in just a few clicks.</p><form id="registerForm" class="space-y-3"><input id="regFirst" class="w-full px-3 py-2 rounded-lg border border-slate-200" placeholder="First Name" required /><input id="regLast" class="w-full px-3 py-2 rounded-lg border border-slate-200" placeholder="Last Name" required /><input id="regEmail" type="email" class="w-full px-3 py-2 rounded-lg border border-slate-200" placeholder="Email" required /><input id="regPassword" type="password" class="w-full px-3 py-2 rounded-lg border border-slate-200" placeholder="Password" required /><button class="w-full px-4 py-2 rounded-lg bg-accent-500 text-white hover:bg-accent-600">Register</button></form><div class="text-sm text-slate-600 mt-4">Already have an account? <a href="#" id="openLogin" class="text-accent-700 hover:text-accent-900">Sign in</a></div></div>
+    </div>
+</section>
+
+<section id="page-profile" class="hidden">
+    <div class="max-w-5xl mx-auto px-4 py-10">
+        <h2 class="text-3xl font-semibold mb-6">My Profile</h2>
+        <div class="grid lg:grid-cols-3 gap-8">
+            <div class="lg:col-span-2 space-y-8">
+                <div class="rounded-2xl border border-slate-200 shadow-card"><div class="p-5 border-b border-slate-100"><h3 class="text-lg font-semibold">Personal Details</h3><p class="text-sm text-slate-500 mt-1">Update your information here.</p></div><div class="p-5 grid md:grid-cols-3 gap-6 items-center"><div class="md:col-span-1 flex flex-col items-center"><div class="relative w-32 h-32 rounded-full flex items-center justify-center bg-slate-50 border-2 border-dashed border-slate-300"><svg xmlns="http://www.w3.org/2000/svg" class="h-12 w-12 text-slate-400" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1"><path stroke-linecap="round" stroke-linejoin="round" d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z" /></svg><button class="absolute -bottom-1 -right-1 h-10 w-10 bg-white rounded-full border border-slate-200 shadow-sm flex items-center justify-center hover:bg-slate-50 focus-ring"><svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 text-slate-500" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M3 9a2 2 0 012-2h.93a2 2 0 001.664-.89l.812-1.22A2 2 0 0110.07 4h3.86a2 2 0 011.664.89l.812 1.22A2 2 0 0018.07 7H19a2 2 0 012 2v9a2 2 0 01-2 2H5a2 2 0 01-2-2V9z" /><path stroke-linecap="round" stroke-linejoin="round" d="M15 13a3 3 0 11-6 0 3 3 0 016 0z" /></svg></button></div><p class="text-xs text-slate-500 mt-3 text-center">Minimum size: 280x280</p></div><form id="profileForm" class="md:col-span-2 grid sm:grid-cols-2 gap-4"><input id="pFirst" class="w-full px-3 py-2 rounded-lg border border-slate-200 focus-ring" placeholder="First Name" /><input id="pLast" class="w-full px-3 py-2 rounded-lg border border-slate-200 focus-ring" placeholder="Last Name" /><input id="pEmail" type="email" class="sm:col-span-2 w-full px-3 py-2 rounded-lg border border-slate-200 focus-ring" placeholder="Email Address" /><input id="pPhone" class="sm:col-span-2 w-full px-3 py-2 rounded-lg border border-slate-200 focus-ring" placeholder="Mobile Number" /><div class="sm:col-span-2 mt-2"><button class="w-full px-4 py-2 rounded-lg bg-accent-500 text-white hover:bg-accent-600 transition">Save Details</button></div></form></div></div>
+                <div class="rounded-2xl border border-slate-200 shadow-card"><div class="p-5 border-b border-slate-100"><h3 class="text-lg font-semibold">My Appointments</h3></div><div id="myAppointments" class="p-5 space-y-3"></div></div>
+                <div class="rounded-2xl border border-slate-200 shadow-card"><div class="p-5 border-b border-slate-100"><h3 class="text-lg font-semibold">Communication Preferences</h3><p class="text-sm text-slate-500 mt-1">Manage your alerts and notifications.</p></div><div class="p-5 space-y-4"><label class="flex items-center space-x-3 cursor-pointer"><input type="checkbox" class="h-4 w-4 rounded border-slate-300 text-accent-600 focus:ring-accent-500" checked><span class="text-sm text-slate-700">Receive vehicle matches based on your recent activity</span></label><label class="flex items-center space-x-3 cursor-pointer"><input type="checkbox" class="h-4 w-4 rounded border-slate-300 text-accent-600 focus:ring-accent-500"><span class="text-sm text-slate-700">Receive notifications about used car specials</span></label><div class="pt-2"><button class="w-full px-4 py-2 rounded-lg bg-accent-500 text-white hover:bg-accent-600 transition">Save Preferences</button></div></div></div>
+            </div>
+            <div class="lg:col-span-1 space-y-8">
+                <div class="rounded-2xl border border-slate-200 shadow-card"><div class="p-5 border-b border-slate-100"><h3 class="text-lg font-semibold">My Documents</h3></div><div class="p-5 space-y-4"><p class="text-sm text-slate-600">Upload your driver's license or other documents securely.</p><input id="docUpload" type="file" class="block w-full text-sm text-slate-500 file:mr-4 file:py-2 file:px-4 file:rounded-lg file:border-0 file:text-sm file:font-semibold file:bg-accent-50 file:text-accent-700 hover:file:bg-accent-100" accept=".jpg,.jpeg,.png,.pdf" /><div id="docList" class="text-sm text-slate-700 pt-2 space-y-2"></div></div></div>
+                <div class="rounded-2xl border border-slate-200 shadow-card"><div class="p-5 border-b border-slate-100"><h3 class="text-lg font-semibold">Change Password</h3></div><form class="p-5 space-y-4"><input type="password" class="w-full px-3 py-2 rounded-lg border border-slate-200 focus-ring" placeholder="Current Password" required><input type="password" class="w-full px-3 py-2 rounded-lg border border-slate-200 focus-ring" placeholder="New Password" required><input type="password" class="w-full px-3 py-2 rounded-lg border border-slate-200 focus-ring" placeholder="Confirm New Password" required><div class="pt-2"><button class="w-full px-4 py-2 rounded-lg bg-accent-500 text-white hover:bg-accent-600 transition">Update Password</button></div></form></div>
+                <div class="rounded-2xl border border-red-200 bg-red-50/50 shadow-card"><div class="p-5 border-b border-red-100"><h3 class="text-lg font-semibold text-red-800">Delete Account</h3></div><div class="p-5"><p class="text-sm text-red-700">Once you delete your account, there is no going back. All of your data will be permanently removed.</p><div class="pt-4"><button class="w-full px-4 py-2 rounded-lg bg-red-600 text-white hover:bg-red-700 transition">Delete My Account</button></div></div></div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section id="page-dealer-dashboard" class="hidden">
+</section>
+<section id="page-contact" class="hidden">
+    <div class="max-w-3xl mx-auto px-4 py-10">
+        <h2 class="text-2xl font-semibold mb-2">Contact Us</h2><p class="text-slate-600 mb-6">Questions or feedback? We’re here to help.</p>
+        <div class="rounded-2xl border border-slate-200 p-5 mb-6"><div class="grid sm:grid-cols-3 gap-4 text-sm"><div><div class="font-semibold">Head Office</div><div class="text-slate-600">Johannesburg, Gauteng</div></div><div><div class="font-semibold">Phone</div><div class="text-slate-600">010 555 0000</div></div><div><div class="font-semibold">Email</div><div class="text-slate-600">support@sacarcompare.co.za</div></div></div></div>
+        <form id="contactForm" class="space-y-3 rounded-2xl border border-slate-200 p-5"><input class="w-full px-3 py-2 rounded-lg border border-slate-200" placeholder="Your Name" required /><input type="email" class="w-full px-3 py-2 rounded-lg border border-slate-200" placeholder="Email" required /><textarea rows="4" class="w-full px-3 py-2 rounded-lg border border-slate-200" placeholder="Message" required></textarea><button class="px-4 py-2 rounded-lg bg-accent-500 text-white hover:bg-accent-600">Send</button><div class="text-xs text-slate-500">Demo: Shows a success message.</div></form>
+        <div id="contactConfirm" class="hidden mt-3 rounded-lg bg-accent-50 border border-accent-100 p-3 text-sm text-accent-800"></div>
+    </div>
+</section>
+
+<div id="comparePanel" class="hidden fixed bottom-4 left-4 right-4 md:left-1/2 md:-translate-x-1/2 md:right-auto z-40">
+    <div class="max-w-5xl mx-auto rounded-2xl border border-slate-200 bg-white shadow-card p-4">
+        <div class="flex items-center justify-between mb-2">
+            <div class="font-semibold">Compare Selection</div>
+            <button onclick="hideCompare()" class="text-slate-500 hover:text-slate-800 text-sm">Close</button>
+        </div>
+        <div id="compareContent" class="grid sm:grid-cols-2 lg:grid-cols-3 gap-4">
+        </div>
+        <div class="mt-4">
+            <button id="openCompareModal" class="px-4 py-2 rounded-lg bg-accent-500 text-white hover:bg-accent-600 disabled:opacity-40">Open Side-by-Side</button>
+        </div>
+    </div>
+</div>
+
+<div id="compareModal" class="hidden fixed inset-0 bg-black/40 z-50">
+    <div class="flex items-end md:items-center justify-center min-h-full p-4">
+        <div class="w-full max-w-6xl bg-white rounded-2xl shadow-card overflow-hidden">
+            <div class="flex items-center justify-between px-5 py-3 border-b border-slate-100">
+                <div class="font-semibold">Compare Cars</div>
+                <button onclick="closeCompareModal()" class="px-3 py-1 rounded-lg border border-slate-200">Close</button>
+            </div>
+            <div id="compareTableWrap" class="p-4 overflow-auto hide-scrollbar">
+                <div id="compareTable" class="min-w-[700px] grid gap-4" style="grid-template-columns: repeat(1, 1fr);">
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id="toast" class="hidden fixed bottom-6 left-1/2 -translate-x-1/2 bg-slate-900 text-white text-sm px-4 py-2 rounded-lg shadow-lg z-50"></div>

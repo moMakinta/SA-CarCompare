@@ -1,0 +1,559 @@
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\bin\Debug\net8.0\appsettings.json
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\bin\Debug\net8.0\SACarCompare.staticwebassets.runtime.json
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\bin\Debug\net8.0\SACarCompare.staticwebassets.endpoints.json
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\bin\Debug\net8.0\SACarCompare.exe
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\bin\Debug\net8.0\SACarCompare.deps.json
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\bin\Debug\net8.0\SACarCompare.runtimeconfig.json
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\bin\Debug\net8.0\SACarCompare.dll
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\bin\Debug\net8.0\SACarCompare.pdb
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\bin\Debug\net8.0\Humanizer.dll
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\obj\Debug\net8.0\SACarCompare.csproj.AssemblyReference.cache
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\obj\Debug\net8.0\SACarCompare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\obj\Debug\net8.0\SACarCompare.AssemblyInfoInputs.cache
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\obj\Debug\net8.0\SACarCompare.AssemblyInfo.cs
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\obj\Debug\net8.0\SACarCompare.csproj.CoreCompileInputs.cache
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\obj\Debug\net8.0\SACarCompare.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\obj\Debug\net8.0\SACarCompare.RazorAssemblyInfo.cache
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\obj\Debug\net8.0\SACarCompare.RazorAssemblyInfo.cs
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\obj\Debug\net8.0\scopedcss\bundle\SACarCompare.styles.css
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\obj\Debug\net8.0\scopedcss\projectbundle\SACarCompare.bundle.scp.css
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\obj\Debug\net8.0\staticwebassets\msbuild.SACarCompare.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\obj\Debug\net8.0\staticwebassets\msbuild.SACarCompare.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\obj\Debug\net8.0\staticwebassets\msbuild.build.SACarCompare.props
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SACarCompare.props
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SACarCompare.props
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\obj\Debug\net8.0\SACarCom.30A0546D.Up2Date
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\obj\Debug\net8.0\SACarCompare.dll
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\obj\Debug\net8.0\refint\SACarCompare.dll
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\obj\Debug\net8.0\SACarCompare.pdb
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\obj\Debug\net8.0\SACarCompare.genruntimeconfig.cache
+C:\Users\ke_or\Documents\Programmes\C# Programmes\SACarCompare\obj\Debug\net8.0\ref\SACarCompare.dll
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\appsettings.json
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\SACarCompare.staticwebassets.runtime.json
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\SACarCompare.staticwebassets.endpoints.json
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\SACarCompare.exe
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\SACarCompare.deps.json
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\SACarCompare.runtimeconfig.json
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\SACarCompare.dll
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\SACarCompare.pdb
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\Humanizer.dll
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\obj\Debug\net8.0\SACarCompare.csproj.AssemblyReference.cache
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\obj\Debug\net8.0\SACarCompare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\obj\Debug\net8.0\SACarCompare.AssemblyInfoInputs.cache
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\obj\Debug\net8.0\SACarCompare.AssemblyInfo.cs
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\obj\Debug\net8.0\SACarCompare.csproj.CoreCompileInputs.cache
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\obj\Debug\net8.0\SACarCompare.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\obj\Debug\net8.0\SACarCompare.RazorAssemblyInfo.cache
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\obj\Debug\net8.0\SACarCompare.RazorAssemblyInfo.cs
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\obj\Debug\net8.0\scopedcss\bundle\SACarCompare.styles.css
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\obj\Debug\net8.0\scopedcss\projectbundle\SACarCompare.bundle.scp.css
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\obj\Debug\net8.0\swae.build.ex.cache
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\obj\Debug\net8.0\SACarCom.30A0546D.Up2Date
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\obj\Debug\net8.0\SACarCompare.dll
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\obj\Debug\net8.0\refint\SACarCompare.dll
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\obj\Debug\net8.0\SACarCompare.pdb
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\obj\Debug\net8.0\SACarCompare.genruntimeconfig.cache
+C:\Users\IT Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\obj\Debug\net8.0\ref\SACarCompare.dll
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\appsettings.json
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\SACarCompare.staticwebassets.runtime.json
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\SACarCompare.staticwebassets.endpoints.json
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\SACarCompare.exe
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\SACarCompare.deps.json
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\SACarCompare.runtimeconfig.json
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\SACarCompare.dll
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\SACarCompare.pdb
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\obj\Debug\net8.0\SACarCompare.csproj.AssemblyReference.cache
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\obj\Debug\net8.0\SACarCompare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\obj\Debug\net8.0\SACarCompare.AssemblyInfoInputs.cache
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\obj\Debug\net8.0\SACarCompare.AssemblyInfo.cs
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\obj\Debug\net8.0\SACarCompare.csproj.CoreCompileInputs.cache
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\obj\Debug\net8.0\SACarCompare.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\obj\Debug\net8.0\SACarCompare.RazorAssemblyInfo.cache
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\obj\Debug\net8.0\SACarCompare.RazorAssemblyInfo.cs
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\obj\Debug\net8.0\scopedcss\bundle\SACarCompare.styles.css
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\obj\Debug\net8.0\scopedcss\projectbundle\SACarCompare.bundle.scp.css
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\obj\Debug\net8.0\SACarCom.30A0546D.Up2Date
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\obj\Debug\net8.0\SACarCompare.dll
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\obj\Debug\net8.0\refint\SACarCompare.dll
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\obj\Debug\net8.0\SACarCompare.pdb
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\obj\Debug\net8.0\SACarCompare.genruntimeconfig.cache
+C:\Users\Software Engineering\OneDrive - Think360\MM-Vault Projects\SACarCompare\obj\Debug\net8.0\ref\SACarCompare.dll
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\appsettings.json
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\SACarCompare.staticwebassets.runtime.json
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\SACarCompare.staticwebassets.endpoints.json
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\SACarCompare.exe
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\SACarCompare.deps.json
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\SACarCompare.runtimeconfig.json
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\SACarCompare.dll
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\SACarCompare.pdb
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\Humanizer.dll
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\obj\Debug\net8.0\SACarCompare.csproj.AssemblyReference.cache
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\obj\Debug\net8.0\SACarCompare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\obj\Debug\net8.0\SACarCompare.AssemblyInfoInputs.cache
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\obj\Debug\net8.0\SACarCompare.AssemblyInfo.cs
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\obj\Debug\net8.0\SACarCompare.csproj.CoreCompileInputs.cache
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\obj\Debug\net8.0\SACarCompare.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\obj\Debug\net8.0\SACarCompare.RazorAssemblyInfo.cache
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\obj\Debug\net8.0\SACarCompare.RazorAssemblyInfo.cs
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\obj\Debug\net8.0\scopedcss\bundle\SACarCompare.styles.css
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\obj\Debug\net8.0\scopedcss\projectbundle\SACarCompare.bundle.scp.css
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\obj\Debug\net8.0\swae.build.ex.cache
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\obj\Debug\net8.0\SACarCom.30A0546D.Up2Date
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\obj\Debug\net8.0\SACarCompare.dll
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\obj\Debug\net8.0\refint\SACarCompare.dll
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\obj\Debug\net8.0\SACarCompare.pdb
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\obj\Debug\net8.0\SACarCompare.genruntimeconfig.cache
+C:\Users\ke_or\OneDrive - Think360\MM-Vault Projects\SACarCompare\obj\Debug\net8.0\ref\SACarCompare.dll

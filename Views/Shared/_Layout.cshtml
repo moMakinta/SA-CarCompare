@@ -1,0 +1,116 @@
+﻿<!DOCTYPE html>
+<html lang="en" class="h-full">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>SA Car Compare</title>
+    
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="~/js/config.js"></script>
+    <link rel="stylesheet" href="~/css/styles.css" />
+    <style>
+        @@webkit-keyframes spin { from { transform: rotate(0deg); } to { transform: rotate(360deg); } }
+        @@webkit-keyframes drive { from { stroke-dashoffset: 0; } to { stroke-dashoffset: -100; } }
+        @@webkit-keyframes bounce { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-2px); } }
+        .wheel { transform-origin: center; animation: spin 1.2s linear infinite; }
+        .road-lines { stroke-dasharray: 40, 60; animation: drive 1.2s linear infinite; }
+        .car-body { animation: bounce 1.5s ease-in-out infinite; }
+    </style>
+</head>
+<body class="h-full bg-white text-slate-800 font-sans">
+    <header class="sticky top-0 z-50 bg-white/90 glass border-b border-slate-100">
+        <div class="max-w-7xl mx-auto px-4">
+            <div class="flex items-center justify-between h-16">
+                <div class="flex items-center gap-3 cursor-pointer" onclick="navTo('home')">
+                    <div class="w-9 h-9 rounded-lg bg-accent-500 text-white flex items-center justify-center font-bold">SA</div>
+                    <div>
+                        <div class="text-lg font-semibold">SA Car Compare</div>
+                        <div class="text-xs text-slate-500">Compare · Book · Drive</div>
+                    </div>
+                </div>
+                <nav class="hidden md:flex items-center gap-6">
+                    <a href="#" data-nav="home" class="nav-link text-slate-700 hover:text-accent-600 transition">Home</a>
+                    <a href="#" data-nav="about" class="nav-link text-slate-700 hover:text-accent-600 transition">About</a>
+                    <div class="relative" id="menuDemo">
+                        <button class="flex items-center gap-1 text-slate-700 hover:text-accent-600 transition" type="button">Demo Cars <span class="text-xs" id="arrow-demo">▾</span></button>
+                        <div id="dropdown-demo" class="hidden absolute left-0 mt-2 w-48 rounded-lg bg-white border border-slate-100 shadow-card p-2">
+                            <a href="#" data-nav="dealers" data-type="Demo" class="block px-3 py-2 rounded hover:bg-slate-50">Find a Dealer</a>
+                            <a href="#" data-nav="cars" data-type="Demo" class="block px-3 py-2 rounded hover:bg-slate-50">Browse Demo Cars</a>
+                        </div>
+                    </div>
+                    <div class="relative" id="menuNew">
+                        <button class="flex items-center gap-1 text-slate-700 hover:text-accent-600 transition" type="button">New Cars <span class="text-xs" id="arrow-new">▾</span></button>
+                        <div id="dropdown-new" class="hidden absolute left-0 mt-2 w-48 rounded-lg bg-white border border-slate-100 shadow-card p-2">
+                            <a href="#" data-nav="dealers" data-type="New" class="block px-3 py-2 rounded hover:bg-slate-50">Find a Dealer</a>
+                            <a href="#" data-nav="cars" data-type="New" class="block px-3 py-2 rounded hover:bg-slate-50">Browse New Cars</a>
+                        </div>
+                    </div>
+                    <a href="#" data-nav="contact" class="nav-link text-slate-700 hover:text-accent-600 transition">Contact Us</a>
+                </nav>
+                <div class="hidden md:flex items-center gap-3">
+                    <button id="loginBtn" class="px-4 py-2 rounded-lg bg-accent-500 text-white hover:bg-accent-600 transition">Login / Register</button>
+                    <button id="profileBtn" class="hidden px-4 py-2 rounded-lg border border-slate-200 hover:border-accent-500 text-slate-700 hover:text-accent-700 transition">My Profile</button>
+                    <button id="logoutBtn" class="hidden px-4 py-2 rounded-lg bg-red-500 text-white hover:bg-red-600 transition">Logout</button>
+                </div>
+                <button id="mobileMenuBtn" class="md:hidden inline-flex items-center justify-center w-10 h-10 rounded-lg border border-slate-200" aria-label="Menu">☰</button>
+            </div>
+        </div>
+        <div id="mobileMenu" class="md:hidden hidden border-t border-slate-100 bg-white">
+            <div class="px-4 py-3 space-y-1">
+                <a href="#" data-nav="home" class="block px-3 py-2 rounded hover:bg-slate-50">Home</a>
+                <a href="#" data-nav="about" class="block px-3 py-2 rounded hover:bg-slate-50">About</a>
+                <div class="border rounded-lg">
+                    <div class="px-3 py-2 text-xs uppercase tracking-wide text-slate-500">Demo Cars</div>
+                    <a href="#" data-nav="dealers" data-type="Demo" class="block px-3 py-2 hover:bg-slate-50">Find a Dealer</a>
+                    <a href="#" data-nav="cars" data-type="Demo" class="block px-3 py-2 hover:bg-slate-50">Browse Demo Cars</a>
+                </div>
+                <div class="border rounded-lg">
+                    <div class="px-3 py-2 text-xs uppercase tracking-wide text-slate-500">New Cars</div>
+                    <a href="#" data-nav="dealers" data-type="New" class="block px-3 py-2 hover:bg-slate-50">Find a Dealer</a>
+                    <a href="#" data-nav="cars" data-type="New" class="block px-3 py-2 hover:bg-slate-50">Browse New Cars</a>
+                </div>
+                <a href="#" data-nav="contact" class="block px-3 py-2 rounded hover:bg-slate-50">Contact Us</a>
+                <div class="flex gap-2 pt-2">
+                    <button id="loginBtnM" class="flex-1 px-4 py-2 rounded-lg bg-accent-500 text-white">Login / Register</button>
+                    <button id="profileBtnM" class="hidden flex-1 px-4 py-2 rounded-lg border border-slate-200">My Profile</button>
+                    <button id="logoutBtnM" class="hidden flex-1 px-4 py-2 rounded-lg bg-red-500 text-white">Logout</button>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <main role="main" class="min-h-[70vh]">
+        @RenderBody()
+    </main>
+
+    <footer class="border-t border-slate-100">
+        <div class="max-w-7xl mx-auto px-4 py-8">
+            <div class="grid md:grid-cols-3 gap-6 text-sm">
+                <div>
+                    <div class="font-semibold mb-2">SA Car Compare</div>
+                    <div class="text-slate-600">A better way to compare and book test drives across South Africa.</div>
+                </div>
+                <div>
+                    <div class="font-semibold mb-2">Explore</div>
+                    <ul class="space-y-1">
+                        <li><a href="#" data-nav="cars" class="text-slate-600 hover:text-accent-700">Cars</a></li>
+                        <li><a href="#" data-nav="dealers" class="text-slate-600 hover:text-accent-700">Dealers</a></li>
+                        <li><a href="#" data-nav="dealer-dashboard" class="text-slate-600 hover:text-accent-700">Dealer Dashboard</a></li>
+                    </ul>
+                </div>
+                <div>
+                    <div class="font-semibold mb-2">Legal</div>
+                    <ul class="space-y-1">
+                        <li><a href="#" class="text-slate-600">Privacy Policy (Demo)</a></li>
+                        <li><a href="#" class="text-slate-600">Terms of Use (Demo)</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="text-xs text-slate-500 mt-6">© <span id="year"></span> SA Car Compare.</div>
+        </div>
+    </footer>
+    
+    <script src="~/js/main.js"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

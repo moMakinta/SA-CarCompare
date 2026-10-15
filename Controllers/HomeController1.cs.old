@@ -1,0 +1,30 @@
+using Microsoft.AspNetCore.Mvc;
+using SACarCompare.Models;
+using System.Linq;
+
+namespace SACarCompare.Controllers
+{
+    public class HomeController : Controller
+    {
+        private readonly ApplicationDbContext _context;
+
+        public HomeController(ApplicationDbContext context)
+        {
+            _context = context;
+        }
+
+        public IActionResult Index()
+        {
+            // For now, let's pass an empty list. We'll add data later.
+            var featuredCars = _context.Cars.Take(3).ToList();
+            return View(featuredCars);
+        }
+
+        // You would create Views for these pages inside Views/Home/
+        public IActionResult About() => View();
+        public IActionResult Contact() => View();
+        public IActionResult Login() => View();
+        public IActionResult Register() => View();
+        public IActionResult Profile() => View();
+    }
+}

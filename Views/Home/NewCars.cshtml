@@ -1,0 +1,20 @@
+﻿@{
+    ViewData["Title"] = "New Vehicles";
+}
+
+<div class="max-w-4xl mx-auto px-4 py-12">
+    <h1 class="text-3xl font-semibold text-center mb-2">New Vehicles</h1>
+    <p class="text-slate-600 text-center mb-8">Choose an option below to find your brand-new car.</p>
+
+    <div class="grid md:grid-cols-2 gap-8">
+        <a asp-controller="Dealers" asp-action="Index" asp-route-carType="New" class="block p-8 rounded-2xl border border-slate-200 shadow-card hover:border-accent-500 hover:shadow-lg transition-all">
+            <h2 class="text-xl font-semibold text-slate-800">Find a Dealer</h2>
+            <p class="text-slate-500 mt-2">Search our network of trusted dealerships for new vehicles.</p>
+        </a>
+
+        <a asp-controller="Cars" asp-action="Index" asp-route-carType="New" class="block p-8 rounded-2xl border border-slate-200 shadow-card hover:border-accent-500 hover:shadow-lg transition-all">
+            <h2 class="text-xl font-semibold text-slate-800">Browse New Cars</h2>
+            <p class="text-slate-500 mt-2">View our full inventory of available new cars and compare your favourites.</p>
+        </a>
+    </div>
+</div>
